@@ -1,4 +1,5 @@
-#import libraries
+#GITHUB REPO LINK: https://github.com/UmarRasheed007/mlp-hidden-layer-study#
+
 import os
 import numpy as np
 import textwrap
